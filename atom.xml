@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-06-30T13:30:39.041Z</updated>
+  <updated>2020-07-01T02:49:16.359Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,34 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>把你的浏览器变身黑科技</title>
+    <link href="http://yoursite.com/2020/07/01/%E6%8A%8A%E4%BD%A0%E7%9A%84%E6%B5%8F%E8%A7%88%E5%99%A8%E5%8F%98%E8%BA%AB%E9%BB%91%E7%A7%91%E6%8A%80/"/>
+    <id>http://yoursite.com/2020/07/01/%E6%8A%8A%E4%BD%A0%E7%9A%84%E6%B5%8F%E8%A7%88%E5%99%A8%E5%8F%98%E8%BA%AB%E9%BB%91%E7%A7%91%E6%8A%80/</id>
+    <published>2020-07-01T02:46:10.000Z</published>
+    <updated>2020-07-01T02:49:16.359Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="让你的浏览器变身黑科技-【最强大的浏览器插件-油猴】"><a href="#让你的浏览器变身黑科技-【最强大的浏览器插件-油猴】" class="headerlink" title="让你的浏览器变身黑科技~ 【最强大的浏览器插件~油猴】"></a>让你的浏览器变身黑科技~ 【最强大的浏览器插件~油猴】</h2><p>想要全网VIP视频免费去广告，全网音乐直接下载，百度网盘直接下载吗？</p><p>想要百度文库没有限制可以无限复制下载？</p><p>想要网课考试自动答题助手并且开无限倍速吗？</p><p>让我们给我们的浏览器变身吧~</p><hr><p>首先我们先来了解一个网站 <strong><a href="https://greasyfork.org/zh-CN" target="_blank" rel="noopener">Greasy Fork</a></strong></p><ul><li>这是一个提供各种脚本的网站</li><li>我们点进去就可以看到相关简介</li><li><img src= "/img/loading.gif" data-src="https://zsr204.oss-cn-beijing.aliyuncs.com/imgs/20200701101123.png" alt="image-20200701101123198"></li></ul><h3 id="那么我们想用这些脚本，首先就需要安装一个脚本管理器"><a href="#那么我们想用这些脚本，首先就需要安装一个脚本管理器" class="headerlink" title="那么我们想用这些脚本，首先就需要安装一个脚本管理器"></a>那么我们想用这些脚本，首先就需要安装一个脚本管理器</h3><hr><p>这里给大家推荐Edge浏览器，win10自带的浏览器，今年更改为和谷歌浏览器同样的Chromium内核，支持了谷歌浏览器所有的插件，拥有更好的性能、稳定性以及网页兼容性 ，而且在内存占用，拓展性等方面相比其他浏览器有很大的优势 </p><p>这里放上链接 <a href="https://www.microsoft.com/zh-tw/edge" target="_blank" rel="noopener">https://www.microsoft.com/zh-tw/edge</a></p><p>大家点进去下载就能更新了，会覆盖老版的Edge浏览器</p><p>注意新版的图标是这样的<img src= "/img/loading.gif" data-src="https://zsr204.oss-cn-beijing.aliyuncs.com/imgs/20200701102145.png" alt="image-20200701102145897" style="zoom:25%;" /></p><hr><p><strong>接下来的教程都已这个浏览器作为演示</strong>，其他浏览器的操作也大同小异~~</p><ol><li>点击浏览器右上角按钮，然后点击拓展</li></ol><p><img src= "/img/loading.gif" data-src="https://zsr204.oss-cn-beijing.aliyuncs.com/imgs/20200701102328.png" alt="image-20200701102328292"></p><ol start="2"><li><p>打开开发人员模式和允许来自其他应用商店的拓展，然后点击获取Microsoft Edge拓展<img src= "/img/loading.gif" data-src="https://zsr204.oss-cn-beijing.aliyuncs.com/imgs/20200701102601.png" alt="image-20200701102600997"></p></li><li><p>搜索Tampermonkey，获取，然后点击添加拓展<img src= "/img/loading.gif" data-src="https://zsr204.oss-cn-beijing.aliyuncs.com/imgs/20200701102729.png" alt="image-20200701102729868"></p></li><li><p>这时候就可以看到了浏览器上方出现了这个小插件<img src= "/img/loading.gif" data-src="https://zsr204.oss-cn-beijing.aliyuncs.com/imgs/20200701102927.png" alt="image-20200701102927199"></p></li><li><p>这时候我们的脚本管理器就已经下载好了，接下来就可以去下载我们想要的插件了~~<a href="https://greasyfork.org/zh-CN/scripts" target="_blank" rel="noopener">点击此处进入插件网站</a></p><p><img src= "/img/loading.gif" data-src="https://zsr204.oss-cn-beijing.aliyuncs.com/imgs/20200701103314.png" alt="image-20200701103314599"></p></li><li><p>我们点进去就可以看到非常多的插件，大家可以根据自己的需要进行选择下载就行~  </p></li></ol><ul><li>这里建议大家选择安装量大且长期更新的插件进行下载~~</li><li>该网站服务器在国外，所以加载可能有点慢~</li></ul><ol start="7"><li>下载好后，我们点击浏览器上方浏览器的油猴图标，就可以看到我们下载的插件，我们可以启用它<img src= "/img/loading.gif" data-src="https://zsr204.oss-cn-beijing.aliyuncs.com/imgs/20200701104219.png" alt="image-20200701104219566" style="zoom: 67%;" /></li></ol><p>每个脚本都有不同的适用范围<del>我们进入到不同的页面，油猴图标都会显示一个红色的小数字，这就代表着我们这个页面可以用的脚本数量，具体每个脚本的用法在下载的页面都会有讲解，大家注意看就好了</del></p><hr><p>THE ENDING</p><p>谢谢大家的访问~~</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h2 id=&quot;让你的浏览器变身黑科技-【最强大的浏览器插件-油猴】&quot;&gt;&lt;a href=&quot;#让你的浏览器变身黑科技-【最强大的浏览器插件-油猴】&quot; class=&quot;headerlink&quot; title=&quot;让你的浏览器变身黑科技~ 【最强大的浏览器插件~油猴】&quot;&gt;&lt;/a&gt;让你的浏览器变
+      
+    
+    </summary>
+    
+    
+      <category term="拓展plugins" scheme="http://yoursite.com/categories/%E6%8B%93%E5%B1%95plugins/"/>
+    
+    
+      <category term="浏览器" scheme="http://yoursite.com/tags/%E6%B5%8F%E8%A7%88%E5%99%A8/"/>
+    
+      <category term="插件" scheme="http://yoursite.com/tags/%E6%8F%92%E4%BB%B6/"/>
+    
+  </entry>
   
   <entry>
     <title>JavaWeb Learning Notes</title>
