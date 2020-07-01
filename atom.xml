@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>欢迎来到Baret~H的blog</title>
   
-  <subtitle>zsr&#39;s blog</subtitle>
+  <subtitle>zsr</subtitle>
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
@@ -10,7 +10,7 @@
   <id>http://yoursite.com/</id>
   
   <author>
-    <name>BaretH</name>
+    <name>Baret-H</name>
     
   </author>
   
